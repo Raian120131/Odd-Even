@@ -14,7 +14,7 @@ public class OddEven {
 		System.out.println("This is A Even Number");
 		}
 		else {
-		System.out.println("This is A Odd Number");
+		System.out.println("This is absoultely A Odd Number");
 		}
 
 	}
